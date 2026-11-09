@@ -10,6 +10,6 @@ Languages:
 * Interests: C/C++, Zig
 
 ### Contact
-- ✉️ [meladry.co@gmail.com](mailto:meladry.co@gmail.com)
+- ✉️ [hello@meladry.dev](mailto:meladry.co@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/meladryco)
-- 🌐 [Portfolio](https://meladry.vercel.app)
+- 🌐 [Portfolio](https://meladry.dev)
