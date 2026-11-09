@@ -9,6 +9,11 @@ Languages:
 * Also worked with: JavaScript, Kotlin
 * Interests: C/C++, Zig
 
+### Projects
+**Verori** — A multi-tenant client-approval portal for consultants. *(Next.js 16, Supabase)*
+[Live](https://verori.app) · [Source](https://github.com/mawmao/verori) · [Architecture Notes](https://github.com/mawmao/verori/blob/main/DECISIONS.md)
+
+
 ### Contact
 - ✉️ [hello@meladry.dev](mailto:meladry.co@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/meladryco)
